@@ -18,7 +18,9 @@ normal people can understand.
 Three components are required to construct a Hand Gesture Recognition system:
 1) The sample data set is given.
 2)  Create a model (In this case we will use a CNN).
-3)  A platform on which to implement our model (We are going to use OpenCV) and display the text. (b) Speech to text :
+3)  A platform on which to implement our model (We are going to use OpenCV) and display the text.
+  
+(b) Speech to text :
 Three components are required to construct a Speech Recognition system:
 1) With the help of a microphone, audio input is given to the system.
 2) Convert analog signals to digital signals and then break the words into phonemes.
